@@ -4,25 +4,28 @@
 
 ## 🔧 Skills
 
-* Routing: OSPF, BGP
+* Routing: BGP
 * Switching: VLAN, STP
 * Network Security: NAT, ACL
-* Automation: Python, Netmiko
+* Automation: Python
+* Technology : SD-WAN  & MPLS
 
 ## 📂 Projects
 
-* 🔹 OSPF Multi-Area Lab
 * 🔹 VLAN & STP Configuration
 * 🔹 BGP Basic Lab
 * 🔹 Python Automation Scripts
+* 🔹Cisco Meraki  
 
 ## 🛠️ Tools
 
-* GNS3 / EVE-NG
-* Cisco Devices
+* Network Monitoring Tool - Grafana,Zabbix,NagiOS,Motadata
+* Cisco Devices - Router , Switch , Access Point, WLC , LLB
 * Python
 
 ## 📫 Contact Me
 
-* LinkedIn: (add your link)
-* Email: (your email)
+* LinkedIn: Nilesh Gami
+* Email: nileshgamee2@gmail.com
+* Mobile No : 9714694780
+* 
