@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nilesh Gami 👋
 
-<!--
-**nileshgami/nileshgami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Network Engineer | Networking & Automation Enthusiast
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Routing: OSPF, BGP
+* Switching: VLAN, STP
+* Network Security: NAT, ACL
+* Automation: Python, Netmiko
+
+## 📂 Projects
+
+* 🔹 OSPF Multi-Area Lab
+* 🔹 VLAN & STP Configuration
+* 🔹 BGP Basic Lab
+* 🔹 Python Automation Scripts
+
+## 🛠️ Tools
+
+* GNS3 / EVE-NG
+* Cisco Devices
+* Python
+
+## 📫 Contact Me
+
+* LinkedIn: (add your link)
+* Email: (your email)
